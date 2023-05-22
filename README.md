@@ -4,10 +4,6 @@
 <img align="right" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="description" width="400">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanthlepcha&label=Profile%20views&color=0e75b6&style=flat" alt="hemanthlepcha" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemanthlepcha" alt="hemanthlepcha" /></a> </p>
-
 - 🔭 I’m currently working on **NLP prject**
 
 - 🌱 I’m currently learning **Machine learning ☄️, Web development, app development and doing the projects on NLP (Dzongkha spelling and Grammar correction), Full Stack frameworks**
@@ -30,3 +26,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemanthlepcha&show_icons=true&locale=en&layout=compact" alt="hemanthlepcha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemanthlepcha&" alt="hemanthlepcha" /></p
+  
+ 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanthlepcha&label=Profile%20views&color=0e75b6&style=flat" alt="hemanthlepcha" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemanthlepcha" alt="hemanthlepcha" /></a> </p>
+
