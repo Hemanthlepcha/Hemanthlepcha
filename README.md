@@ -1,4 +1,3 @@
-![logo](https://cdn.dribbble.com/users/3281732/screenshots/14636958/media/79a0f9b5ed90fc2634c9b85a6b52b234.jpg?compress=1&resize=1000x500&vertical=top)
 <h1 align="center">Hi 👋, I'm Hemanth lepcha</h1>
 <h3 align="center">A passionate Computer Science student from Bhutan</h3>
 <img align="right" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="description" width="400">
