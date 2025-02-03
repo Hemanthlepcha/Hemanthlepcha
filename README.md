@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hemanth lepcha</h1>
-<h3 align="center">A passionate Computer Science student from Bhutan</h3>
+<h2 align="center"> Computer Science student from Bhutan</h2>
 <img align="right" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="description" width="400">
 
 -  💼 Working as **Backend Engineer** at **NDI Bhutan**
@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **any projects related to webn development**
 
-- 💬 Ask me about **HTML, CSS, python, java**
+- 💬 Ask me about **JavaScript, NodeJs, GraphQl, JWT, NextJs, React, HTML, CSS, python, Java,AI and Machine Learning**
 
 - 📫 How to reach me **hemanthlepcha0@gamil.com**
 
