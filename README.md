@@ -2,8 +2,11 @@
 <h3 align="center">A passionate Computer Science student from Bhutan</h3>
 <img align="right" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="description" width="400">
 
-- 👩🏻‍💻 Working as **Junior Software Engineer** at **Beyul Labs**
-- 🔭 Worked on **NLP prject**
+-  💼 Working as **Backend Engineer** at **NDI Bhutan**
+
+-  👩🏻‍💻 Worked as **Junior Software Engineer** at **Beyul Labs**
+  
+-  🔭 Worked on **NLP prject**
 
 - 🌱 I’m currently learning **Machine learning ☄️, Web development, app development, Full Stack frameworks**
 
