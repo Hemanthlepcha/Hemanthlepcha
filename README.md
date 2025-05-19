@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Hemanth lepcha</h1>
-<h2 align="center"> Computer Science student from Bhutan</h2>
 <img align="right" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="description" width="400">
 
 -  💼 Working as **Backend Engineer** at **NDI Bhutan**
@@ -8,9 +7,7 @@
   
 -  🔭 Worked on **NLP prject**
 
-- 🌱 I’m currently learning **Machine learning ☄️, Web development, app development, Full Stack frameworks**
-
-- 👯 I’m looking to collaborate on **any projects related to webn development**
+- 👯 I’m looking to collaborate on **any projects related to web development, AI and Machine Learning, Blockchain based projects**
 
 - 💬 Ask me about **JavaScript, NodeJs, GraphQl, JWT, NextJs, React, HTML, CSS, python, Java,AI and Machine Learning**
 
